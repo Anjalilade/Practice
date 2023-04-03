@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>My First J2EE App </title>
+<title>My First J2EE App</title>
 </head>
 <body>
 <h3>Welcome to J2EE Application</h3>
@@ -17,5 +17,6 @@
 		<br>
 		<input type="submit" value="Login">
 	</form>
+
 </body>
 </html>
